@@ -4,7 +4,8 @@
   "description": "nodejs modules and api practice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/fs/practice/demo"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Yanchenyu/nodejs-learning/issues"
   },
-  "homepage": "https://github.com/Yanchenyu/nodejs-learning#readme"
+  "homepage": "https://github.com/Yanchenyu/nodejs-learning#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.6.1"
+  }
 }

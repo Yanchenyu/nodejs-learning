@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fs": "node ./src/fs/index.js",
-    "path": "node ./src/path/index.js"
+    "path": "node ./src/path/index.js",
+    "querystring": "node ./src/querystring/index.js"
   },
   "repository": {
     "type": "git",

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fs": "node ./src/fs/index.js"
+    "fs": "node ./src/fs/index.js",
+    "path": "node ./src/path/index.js"
   },
   "repository": {
     "type": "git",
